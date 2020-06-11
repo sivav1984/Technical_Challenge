@@ -7,7 +7,7 @@ It allows us to deploy a 3 tier architecture infrastructure environment (Level 0
 ## Three Tier architecture deployment given below diagram provide detail representation of the terraform script outcome
 
 #### Architecture 
-![alt text](https://github.com/mofaizal/Azure-Terraform/blob/master/images/image001.png) 
+![alt text](https://github.com/sivav1984/Technical_Challenge/blob/master/Challenge-1/3-Tier-Azure-Terraform/images/image001.png) 
 
 ### Step 1: Build and Deploy baseline state with network component 
  
@@ -96,7 +96,7 @@ Example Rg-dev-project1
 ### Step 2: Deploy VM and project related items. 
 #### Level 1 
 
-* Architecture ![alt text](https://github.com/mofaizal/Azure-Terraform/blob/master/images/image002.png) 
+* Architecture ![alt text](https://github.com/sivav1984/Technical_Challenge/blob/master/Challenge-1/3-Tier-Azure-Terraform/images/image002.png) 
  
 
 #### Terraform script folder structure for step 2
